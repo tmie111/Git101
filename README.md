@@ -8,3 +8,10 @@ git add .
 git gommit -m ""
 git push
 ```
+
+if you want to pull github repo changes do
+
+```bash
+git pull
+```
+
